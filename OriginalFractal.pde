@@ -1,4 +1,4 @@
-double limit = 400;
+double limit = 12;
 public void setup()
 {
   size(600,600);
