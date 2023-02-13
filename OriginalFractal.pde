@@ -80,7 +80,7 @@ public void myFractal4(float x, float y, float len)
 
 public void keyPressed()
 {
-  if((key == 'e' || key == 'E') && limit > 1)
+  if((key == 'e' || key == 'E') && limit > 0.5)
   {
     background(0);
     limit = limit / 2;
